@@ -1,3 +1,5 @@
+##Focus on codes on hasskit/lib/model =>> All code with websocket store there
+
 ## HassKit
 
 An Elegant Home Assistant Control App
